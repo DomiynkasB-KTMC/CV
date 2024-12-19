@@ -14,7 +14,7 @@ function App() {
   const [rodytiGebejimus, nustatytiRodytiGebejimus] = useState(false);
 
   const asmuo = {
-    vardas: 'Laurynas Sabutis',
+    vardas: 'Dominykas Beniusis',
     nuotrauka: 'assets/veidasphoto.jpg',
     apie: [
       'Motyvuotas ir atsakingas specialistas.',
@@ -26,7 +26,7 @@ function App() {
       telefonas: '+370 600 00000',
       socialiniai: [
         { pavadinimas: 'LinkedIn', url: 'https://www.linkedin.com', ikona: <FaLinkedin /> },
-        { pavadinimas: 'GitHub', url: 'https://github.com/LaurynasSabutis', ikona: <FaGithub /> },
+        { pavadinimas: 'GitHub', url: 'https://github.com/DomiynkasB-KTMC', ikona: <FaGithub /> },
         { pavadinimas: 'Discord', url: 'https://discord.com', ikona: <FaDiscord /> }
       ]
     },
@@ -45,7 +45,7 @@ function App() {
         nuotrauka: '/assets/nuotrauka.png', 
         aprasymas: 'Įvairios užduotys darytos su html, css ir js.',
         nuorodos: [
-          { pavadinimas: 'Atsiskaityti darbai', url: 'https://github.com/LaurynasSabutis/AtsiskaitomiejiDarbai' }
+          { pavadinimas: 'Atsiskaityti darbai', url: 'https://github.com/DomiynkasB-KTMC/AtsiskaitomiejiDarbai-' }
         ]
       },
     ]
