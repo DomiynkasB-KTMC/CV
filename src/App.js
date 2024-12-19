@@ -22,7 +22,7 @@ function App() {
       'Man patinka spręsti sudėtingas problemas.'
     ],
     kontaktai: {
-      elpastas: 'laurynas.sabutis@stud.ktmc.lt',
+      elpastas: 'dominykas.beniusis@stud.ktmc.lt',
       telefonas: '+370 600 00000',
       socialiniai: [
         { pavadinimas: 'LinkedIn', url: 'https://www.linkedin.com', ikona: <FaLinkedin /> },
